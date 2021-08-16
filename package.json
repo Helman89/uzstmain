@@ -1,0 +1,19 @@
+{
+  "name": "uzst-new-website",
+  "version": "1.0.0",
+  "description": "Новый сайт для УЗСТ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helman89/default.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helman89/default/issues"
+  },
+  "homepage": "https://github.com/Helman89/default#readme"
+}
